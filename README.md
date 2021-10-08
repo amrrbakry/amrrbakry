@@ -8,6 +8,7 @@
 
 ### Repos I maintain:
 #### - [Fawry](https://github.com/fawry-api/fawry)
+#### - [XML Sanitizer](https://github.com/amrrbakry/xml_sanitizer)
 #### - [Sinatra Starter (template repo)](https://github.com/amrrbakry/sinatra_starter)
 
 ### Articles I wrote on various technical topics:
