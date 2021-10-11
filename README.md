@@ -1,6 +1,6 @@
 ![matrix](https://media.giphy.com/media/zhJR6HbK4fthC/giphy.gif)
 
-#### I am a capable software engineer, open-source contributor and maintainer with 5 years of experience, designing and developing production-grade web applications with Ruby, Ruby on Rails, ReactJS, and a variety of other technologies. I'm currently working as a senior software engineer at Babbel in Berlin. 
+#### I am a capable software engineer, open-source contributor and maintainer with 4+ years of experience, designing and developing production-grade web applications with Ruby, Ruby on Rails, ReactJS, and a variety of other technologies. I'm currently working as a senior software engineer at Babbel in Berlin. 
 
 #### "Whatever I have tried to do in life, I have tried with all my heart to do it well; whatever I have devoted myself to, I have devoted myself completely; in great aims and in small I have always thoroughly been in earnest."
 
