@@ -11,7 +11,8 @@
 #### - [XML Sanitizer](https://github.com/amrrbakry/xml_sanitizer)
 #### - [Sinatra Starter (template repo)](https://github.com/amrrbakry/sinatra_starter)
 
-### Articles I wrote on various technical topics:
+### Articles I wrote on various technical topics
+#### - [Modularizing our Rails Monolith with Packwerk](https://www.babbel.com/en/magazine/modularizing-our-rails-monolith-with-packwerk)
 #### - [Consistency for Agile Teams](https://github.com/amrrbakry/my-articles/blob/master/consistency_for_agile_teams.md)
 #### - [TIL: Using Different Database Connection with ActiveRecord](https://github.com/amrrbakry/my-articles/blob/master/til_using_different_database_connection_with_activerecord_transactions.md)
 #### - [The Importance of Selective Learning](https://github.com/amrrbakry/my-articles/blob/master/the_importance_of_selective_learning.md)
